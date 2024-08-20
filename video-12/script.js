@@ -25,7 +25,7 @@ console.log(val)
 
 // example:
 console.log(marks.naruto)
-console.log(marks.ban)
+console.log(marks.minato)
 
 // explain: Object.keys(marks)[i]
 console.log(Object.keys(marks)[1])
@@ -50,15 +50,15 @@ for (let key in marks){
 
 
 // This is question number 3
-// console.log("Questin no 3")
-// let number = 5
-// let uNum
-// while(uNum != number){
-//     uNum = prompt("Guess the number!")
-//     console.log("Try again")
-//     console.log('You entered', uNum)
-// }
-// console.log("You won the game")
+console.log("Questin no 3")
+let number = 5
+let uNum
+while(uNum != number){
+    uNum = prompt("Guess the number!")
+    console.log("Try again")
+    console.log('You entered', uNum)
+}
+console.log("You won the game")
 
 
 
