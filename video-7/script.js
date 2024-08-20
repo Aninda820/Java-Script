@@ -11,6 +11,7 @@ if(age < 18){
 }else{
     alert("You can drive")
 }
+console.log(age, typeof age)
 console.log(typeof age)
 
 
