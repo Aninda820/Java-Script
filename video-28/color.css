@@ -1,0 +1,5 @@
+body{
+    height: 100vh;
+    background: repeating-linear-gradient(45deg, red, rgb(23, 15, 92), rgb(131, 10, 50));
+    color: white;
+}
