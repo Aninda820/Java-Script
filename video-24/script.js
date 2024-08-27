@@ -1,0 +1,1 @@
+alert("Use of script tag")
